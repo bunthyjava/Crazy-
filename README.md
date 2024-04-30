@@ -1,7 +1,8 @@
 # Bunthy || Crazy Phisher 
 <a href="https://www.facebook.com/thronbunthy" > <img src="https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white" ></a>
-
+<p>
 Start Bot Crazy Phisher 
+</p>
 <a href="http://t.me/Crazyphisher_bot)" > <img src="https://img.shields.io/badge/Telegram-ADD8E6?style=for-the-badge&logo=Telegram&logoColor=white" ></a>
 
 ```
