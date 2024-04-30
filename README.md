@@ -1,4 +1,4 @@
-# Ravana
+# Bunthy
 
  <a href="https://www.instagram.com/princekrvert/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://m.twitter.com/princekrvert" > <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
@@ -11,16 +11,7 @@
   cloudflare link forwoding 
 ```
  
-*`git clone https://github.com/princekrvert/Ravana.git`
- 
- 
-*`cd Ravana`
- 
- *`chmod +x ravana.sh`
- 
-*`./ravana.sh`
- 
-## WARNING :-THIS TOOL IS MADE ONLY FOR EDUCATIONAL PURPOSES
+ FOR EDUCATIONAL PURPOSES
 
 ### English pdf Download here--
 [PDF](http://www.mediafire.com/file/rgoq0g9yjwytm42/Ravana.docx/file)
